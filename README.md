@@ -25,6 +25,7 @@ Usage:
 
 
 Platform Support:
+
 -Windows (DPI-aware)
 
 -macOS (partial)
